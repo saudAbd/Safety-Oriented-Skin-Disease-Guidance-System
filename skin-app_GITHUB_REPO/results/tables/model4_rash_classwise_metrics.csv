@@ -1,4 +1,0 @@
-Class,Precision,Recall,F1,Specificity
-Acne,0.96,0.81,0.88,0.987
-Eczema,0.77,0.91,0.83,0.864
-Fungal,0.79,0.71,0.75,0.942

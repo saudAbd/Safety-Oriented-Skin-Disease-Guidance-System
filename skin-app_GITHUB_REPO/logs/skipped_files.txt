@@ -1,7 +1,0 @@
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\FINAL_PIPELINE_MODELS\\gatekeeper_threshold.json', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\FINAL_PIPELINE_MODELS\\lesion_safety_config.json', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\FINAL_PIPELINE_MODELS\\pipeline_cfg.json', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\FINAL_PIPELINE_MODELS\\acne5_severe_alert_threshold.json', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\Code\\data\\router_v1_backup\\router_train.csv', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\Code\\data\\router_v1_backup\\router_val.csv', 'excluded path or extension')
-('C:\\Users\\HP\\OneDrive - University of Lincoln\\skin-app\\Code\\data\\rash_data_dermnet.csv', 'excluded path or extension')
