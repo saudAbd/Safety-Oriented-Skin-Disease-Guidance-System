@@ -1,0 +1,4 @@
+Version,Input,Mild Recall,Moderate Recall,Severe Recall
+Baseline,Face crop,0.89,0.25,0.0
+ROI v7,Landmark-bounded ROI,0.56,0.25,0.0
+ROI v8,Nose-gated ROI,0.0,0.63,0.0

@@ -1,0 +1,7 @@
+Metric,Score
+AUROC,0.6847
+Accuracy,0.822
+Sensitivity,0.992
+Specificity,0.177
+Precision,0.821
+F1,0.898
