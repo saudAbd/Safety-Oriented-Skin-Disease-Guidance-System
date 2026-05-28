@@ -1,0 +1,27 @@
+{
+  "image_size": 224,
+  "thresholds": {
+    "gate_abnormal": 0.23,
+    "router_lesion": 0.9,
+    "lesion_risk": 0.344
+  },
+  "paths": {
+    "gate_tflite": "/workspaces/skin-app/Code/data/artifacts/gatekeeper_float32.tflite",
+    "router_keras": "/workspaces/skin-app/data/artifacts/artifacts/router_mnv3_router_v1_thr090.keras",
+    "lesion_safety_keras": "/workspaces/skin-app/Code/data/artifacts/lesion_safety_bal_focal_best.keras",
+    "rash_keras": "/workspaces/skin-app/data/artifacts/rash_mnv3_stage2.keras",
+    "severity_keras": "/workspaces/skin-app/data/artifacts/severity_mnv3_stage2.keras"
+  },
+  "labels": {
+    "rash_specialist": [
+      "acne",
+      "eczema",
+      "fungal"
+    ],
+    "acne_severity": [
+      "mild",
+      "moderate",
+      "severe"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+image,roi_mode,pred_face,conf_face,pred_hybrid,conf_hybrid,changed
+/workspaces/skin-app/data/seg_qc_30/0000_levle2_37.jpg,lesion_roi,mild,0.3113372325897217,moderate,0.29535171389579773,1
+/workspaces/skin-app/data/seg_qc_30/0001_levle0_70.jpg,face_fallback,mild,0.3076065480709076,mild,0.3076065480709076,0
+/workspaces/skin-app/data/seg_qc_30/0002_levle0_198.jpg,lesion_roi,mild,0.3132413923740387,mild,0.3101980686187744,0
+/workspaces/skin-app/data/seg_qc_30/0003_acnemedium (039).jpg,lesion_roi,moderate,0.294935017824173,moderate,0.294935017824173,0
+/workspaces/skin-app/data/seg_qc_30/0004_levle2_121.jpg,lesion_roi,mild,0.3217563331127167,mild,0.32170575857162476,0
+/workspaces/skin-app/data/seg_qc_30/0005_levle1_580.jpg,lesion_roi,mild,0.299372136592865,mild,0.2973995804786682,0
+/workspaces/skin-app/data/seg_qc_30/0006_levle1_50.jpg,lesion_roi,mild,0.29758644104003906,mild,0.3066873550415039,0
+/workspaces/skin-app/data/seg_qc_30/0007_levle1_182.jpg,lesion_roi,mild,0.31216397881507874,mild,0.302480548620224,0
+/workspaces/skin-app/data/seg_qc_30/0008_acnemedium (018).jpg,lesion_roi,normal,0.7141455411911011,moderate,0.29393938183784485,1
+/workspaces/skin-app/data/seg_qc_30/0009_levle0_511.jpg,lesion_roi,mild,0.3236137926578522,mild,0.31658726930618286,0
+/workspaces/skin-app/data/seg_qc_30/0010_levle3_70.jpg,lesion_roi,mild,0.29562777280807495,moderate,0.29623448848724365,1
+/workspaces/skin-app/data/seg_qc_30/0011_acnemedium (035).jpg,lesion_roi,mild,0.3210970461368561,mild,0.3217262625694275,0
+/workspaces/skin-app/data/seg_qc_30/0012_levle1_423.jpg,lesion_roi,mild,0.3216274678707123,mild,0.2986193895339966,0
+/workspaces/skin-app/data/seg_qc_30/0013_levle0_448.jpg,lesion_roi,mild,0.31513115763664246,mild,0.3156062364578247,0
+/workspaces/skin-app/data/seg_qc_30/0014_levle1_593.jpg,face_fallback,normal,0.2798961102962494,normal,0.2798961102962494,0
+/workspaces/skin-app/data/seg_qc_30/0015_levle0_419.jpg,face_fallback,mild,0.3236241936683655,mild,0.3236241936683655,0
+/workspaces/skin-app/data/seg_qc_30/0016_levle0_228.jpg,lesion_roi,mild,0.314031183719635,mild,0.2968970537185669,0
+/workspaces/skin-app/data/seg_qc_30/0017_levle0_22.jpg,lesion_roi,mild,0.32436347007751465,mild,0.3024052679538727,0
+/workspaces/skin-app/data/seg_qc_30/0018_levle0_474.jpg,lesion_roi,mild,0.3202974796295166,mild,0.31577789783477783,0
+/workspaces/skin-app/data/seg_qc_30/0019_levle1_482.jpg,face_fallback,mild,0.30946364998817444,mild,0.30946364998817444,0
+/workspaces/skin-app/data/seg_qc_30/0020_levle1_534.jpg,lesion_roi,mild,0.30224207043647766,mild,0.3042171895503998,0
+/workspaces/skin-app/data/seg_qc_30/0021_levle1_274.jpg,lesion_roi,mild,0.3219057619571686,mild,0.322444885969162,0
+/workspaces/skin-app/data/seg_qc_30/0022_levle1_637.jpg,lesion_roi,mild,0.31437164545059204,moderate,0.29344987869262695,1
+/workspaces/skin-app/data/seg_qc_30/0023_levle0_206.jpg,lesion_roi,normal,0.6337037682533264,normal,0.37513646483421326,0
+/workspaces/skin-app/data/seg_qc_30/0024_levle1_484.jpg,lesion_roi,mild,0.3217305839061737,moderate,0.2939450740814209,1
+/workspaces/skin-app/data/seg_qc_30/0025_levle1_407.jpg,face_fallback,mild,0.32128629088401794,mild,0.32128629088401794,0
+/workspaces/skin-app/data/seg_qc_30/0026_levle2_46.jpg,lesion_roi,mild,0.29859480261802673,mild,0.29859480261802673,0
+/workspaces/skin-app/data/seg_qc_30/0027_levle2_77.jpg,lesion_roi,mild,0.30112630128860474,moderate,0.2940973937511444,1
+/workspaces/skin-app/data/seg_qc_30/0028_levle1_37.jpg,lesion_roi,mild,0.3194264769554138,mild,0.31499436497688293,0
+/workspaces/skin-app/data/seg_qc_30/0029_levle1_422.jpg,lesion_roi,mild,0.31760451197624207,mild,0.3216884136199951,0

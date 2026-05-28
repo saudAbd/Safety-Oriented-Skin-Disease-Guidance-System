@@ -1,0 +1,31 @@
+image,roi_mode,pred_face,conf_face,pred_lesionroi_v7,conf_lesionroi_v7,changed
+/workspaces/skin-app/data/seg_qc_30/0000_levle2_37.jpg,lesion_roi_centroid_noseguard,mild,0.2979487478733063,mild,0.2987857460975647,0
+/workspaces/skin-app/data/seg_qc_30/0001_levle0_70.jpg,lesion_roi_centroid_noseguard,mild,0.2959509491920471,moderate,0.29474228620529175,1
+/workspaces/skin-app/data/seg_qc_30/0002_levle0_198.jpg,lesion_roi_centroid_noseguard,mild,0.30360761284828186,mild,0.29779252409935,0
+/workspaces/skin-app/data/seg_qc_30/0003_acnemedium (039).jpg,face_fallback_no_landmarkbbox,moderate,0.294935017824173,moderate,0.294935017824173,0
+/workspaces/skin-app/data/seg_qc_30/0004_levle2_121.jpg,lesion_roi_centroid_noseguard,mild,0.3180450201034546,mild,0.31455764174461365,0
+/workspaces/skin-app/data/seg_qc_30/0005_levle1_580.jpg,lesion_roi_centroid_noseguard,moderate,0.2952737808227539,moderate,0.29593971371650696,0
+/workspaces/skin-app/data/seg_qc_30/0006_levle1_50.jpg,lesion_roi_centroid_noseguard,moderate,0.2955012023448944,moderate,0.29477375745773315,0
+/workspaces/skin-app/data/seg_qc_30/0007_levle1_182.jpg,lesion_roi_centroid_noseguard,mild,0.30704763531684875,mild,0.30666428804397583,0
+/workspaces/skin-app/data/seg_qc_30/0008_acnemedium (018).jpg,face_fallback_no_landmarkbbox,normal,0.7141455411911011,normal,0.7141455411911011,0
+/workspaces/skin-app/data/seg_qc_30/0009_levle0_511.jpg,lesion_roi_centroid_noseguard,mild,0.3016074597835541,moderate,0.29574820399284363,1
+/workspaces/skin-app/data/seg_qc_30/0010_levle3_70.jpg,face_fallback_no_landmarkbbox,mild,0.29562777280807495,mild,0.29562777280807495,0
+/workspaces/skin-app/data/seg_qc_30/0011_acnemedium (035).jpg,lesion_roi_centroid_noseguard,mild,0.3151310384273529,mild,0.30492928624153137,0
+/workspaces/skin-app/data/seg_qc_30/0012_levle1_423.jpg,lesion_roi_centroid_noseguard,mild,0.32217416167259216,mild,0.3124939799308777,0
+/workspaces/skin-app/data/seg_qc_30/0013_levle0_448.jpg,lesion_roi_centroid_noseguard,mild,0.297288179397583,moderate,0.2959715723991394,1
+/workspaces/skin-app/data/seg_qc_30/0014_levle1_593.jpg,lesion_roi_centroid_noseguard,mild,0.3228684663772583,mild,0.32090315222740173,0
+/workspaces/skin-app/data/seg_qc_30/0015_levle0_419.jpg,lesion_roi_centroid_noseguard,mild,0.3124462366104126,mild,0.3069617450237274,0
+/workspaces/skin-app/data/seg_qc_30/0016_levle0_228.jpg,lesion_roi_centroid_noseguard,mild,0.3036011755466461,mild,0.301889032125473,0
+/workspaces/skin-app/data/seg_qc_30/0017_levle0_22.jpg,lesion_roi_centroid_noseguard,mild,0.32092469930648804,mild,0.30363044142723083,0
+/workspaces/skin-app/data/seg_qc_30/0018_levle0_474.jpg,lesion_roi_centroid_noseguard,mild,0.31342747807502747,mild,0.3058793544769287,0
+/workspaces/skin-app/data/seg_qc_30/0019_levle1_482.jpg,lesion_roi_centroid_noseguard,mild,0.31192171573638916,mild,0.31033241748809814,0
+/workspaces/skin-app/data/seg_qc_30/0020_levle1_534.jpg,lesion_roi_centroid_noseguard,mild,0.30257532000541687,moderate,0.2960518002510071,1
+/workspaces/skin-app/data/seg_qc_30/0021_levle1_274.jpg,lesion_roi_centroid_noseguard,mild,0.32197922468185425,mild,0.31831055879592896,0
+/workspaces/skin-app/data/seg_qc_30/0022_levle1_637.jpg,face_fallback_no_landmarkbbox,mild,0.31437164545059204,mild,0.31437164545059204,0
+/workspaces/skin-app/data/seg_qc_30/0023_levle0_206.jpg,face_fallback_no_landmarkbbox,normal,0.6337037682533264,normal,0.6337037682533264,0
+/workspaces/skin-app/data/seg_qc_30/0024_levle1_484.jpg,lesion_roi_centroid_noseguard,mild,0.31342199444770813,mild,0.31016838550567627,0
+/workspaces/skin-app/data/seg_qc_30/0025_levle1_407.jpg,lesion_roi_centroid_noseguard,mild,0.322284996509552,mild,0.32227689027786255,0
+/workspaces/skin-app/data/seg_qc_30/0026_levle2_46.jpg,lesion_roi_centroid_noseguard,mild,0.30508363246917725,moderate,0.2945536971092224,1
+/workspaces/skin-app/data/seg_qc_30/0027_levle2_77.jpg,lesion_roi_centroid_noseguard,mild,0.29873421788215637,moderate,0.29671117663383484,1
+/workspaces/skin-app/data/seg_qc_30/0028_levle1_37.jpg,lesion_roi_centroid_noseguard,moderate,0.29586946964263916,mild,0.29832175374031067,1
+/workspaces/skin-app/data/seg_qc_30/0029_levle1_422.jpg,lesion_roi_centroid_noseguard,mild,0.31954216957092285,mild,0.2976565957069397,0

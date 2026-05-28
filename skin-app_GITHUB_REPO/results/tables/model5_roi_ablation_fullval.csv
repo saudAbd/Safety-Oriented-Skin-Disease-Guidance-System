@@ -1,0 +1,7 @@
+Input Strategy,Accuracy,Normal Recall,Moderate Recall,Severe Recall
+Whole-Face Baseline,0.638,0.704,0.429,0.58
+Lesion ROI,0.106,0.056,0.971,0.0
+Face Bounding Box,0.171,0.141,0.857,0.0
+Old 3-Class Expert,0.542,,0.143,0.842
+Combined Thr=0.28,0.539,0.555,0.086,1.0
+Combined Thr=0.50,0.617,0.68,0.05,0.842

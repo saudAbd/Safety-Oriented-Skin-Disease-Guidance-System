@@ -1,0 +1,5 @@
+{
+  "severe_alert_thr": 0.265,
+  "model_path": "/workspaces/skin-app/data/artifacts/acne5_severity_stage3.keras",
+  "notes": "Stage-3 balanced focal. Severe-alert is a separate flag; do not override argmax class."
+}

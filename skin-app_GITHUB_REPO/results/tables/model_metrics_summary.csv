@@ -1,0 +1,11 @@
+Model,Primary Metric,Metric Type
+"Model-1
+Gatekeeper",0.9357,AUROC
+"Model-2
+Router",0.924,AUROC
+"Model-3
+Lesion Safety",0.6847,AUROC
+"Model-4
+Rash Specialist",0.821,Accuracy
+"Model-5
+Severity",0.638,Accuracy
